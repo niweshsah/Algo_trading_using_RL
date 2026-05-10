@@ -1,4 +1,4 @@
-# LSTM-SAC Trading Agent
+# Reinforcement Learning Trading Agent
 
 A production-grade reinforcement learning system for continuous-action algorithmic trading, combining LSTM-based feature extraction with Soft Actor-Critic (SAC) optimization. Demonstrates state-of-the-art deep RL techniques applied to quantitative finance.
 
